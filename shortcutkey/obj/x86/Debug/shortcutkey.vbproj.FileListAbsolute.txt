@@ -1,0 +1,25 @@
+E:\VB Project\shortcutkey\shortcutkey\bin\Debug\shortcutkey.exe
+E:\VB Project\shortcutkey\shortcutkey\bin\Debug\shortcutkey.pdb
+E:\VB Project\shortcutkey\shortcutkey\bin\Debug\shortcutkey.xml
+E:\VB Project\shortcutkey\shortcutkey\obj\x86\Debug\shortcutkey.Form1.resources
+E:\VB Project\shortcutkey\shortcutkey\obj\x86\Debug\shortcutkey.Resources.resources
+E:\VB Project\shortcutkey\shortcutkey\obj\x86\Debug\shortcutkey.vbproj.GenerateResource.Cache
+E:\VB Project\shortcutkey\shortcutkey\obj\x86\Debug\shortcutkey.exe
+E:\VB Project\shortcutkey\shortcutkey\obj\x86\Debug\shortcutkey.xml
+E:\VB Project\shortcutkey\shortcutkey\obj\x86\Debug\shortcutkey.pdb
+D:\VB Project\shortcutkey\shortcutkey\obj\x86\Debug\shortcutkey.exe
+D:\VB Project\shortcutkey\shortcutkey\obj\x86\Debug\shortcutkey.xml
+D:\VB Project\shortcutkey\shortcutkey\obj\x86\Debug\shortcutkey.pdb
+E:\VB Project\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.exe
+E:\VB Project\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.xml
+E:\VB Project\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.pdb
+E:\VB Project\CS auto click\shortcutkey\bin\Debug\shortcutkey.exe
+E:\VB Project\CS auto click\shortcutkey\bin\Debug\shortcutkey.pdb
+E:\VB Project\CS auto click\shortcutkey\bin\Debug\shortcutkey.xml
+E:\VB Project\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.vbprojResolveAssemblyReference.cache
+E:\VB Project\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.Form1.resources
+E:\VB Project\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.Resources.resources
+E:\VB Project\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.vbproj.GenerateResource.Cache
+H:\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.exe
+H:\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.xml
+H:\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.pdb
