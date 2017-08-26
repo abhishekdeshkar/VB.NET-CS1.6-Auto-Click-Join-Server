@@ -23,3 +23,11 @@ E:\VB Project\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.vbproj.Generat
 H:\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.exe
 H:\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.xml
 H:\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.pdb
+H:\CS auto click\shortcutkey\bin\Debug\shortcutkey.exe
+H:\CS auto click\shortcutkey\bin\Debug\shortcutkey.pdb
+H:\CS auto click\shortcutkey\bin\Debug\shortcutkey.xml
+H:\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.vbprojResolveAssemblyReference.cache
+H:\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.Form1.resources
+H:\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.Resources.resources
+H:\CS auto click\shortcutkey\obj\x86\Debug\shortcutkey.vbproj.GenerateResource.Cache
+H:\CS auto click\shortcutkey\bin\Debug\shortcutkey.exe.config
